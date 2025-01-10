@@ -1,0 +1,8 @@
+.repository_grid{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    justify-content: center;
+    gap: 20px;
+    margin: auto;
+}
